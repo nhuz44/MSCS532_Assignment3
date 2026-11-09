@@ -1,0 +1,4 @@
+threshold,items,slots,load_factor,collisions,max_chain_length,resizes
+0.5,3000,8192,0.3662,608,2,10
+0.75,3000,4096,0.7324,608,2,9
+2.0,3000,2048,1.4648,952,3,8

@@ -1,0 +1,5 @@
+Platform: macOS-27.0.1-arm64-arm-64bit-Mach-O
+Python: 3.14.7
+Processor: arm
+Timing: perf_counter_ns median of 7 runs; wall clock ms
+Input generated from fixed random seeds; pivot seeds vary by trial
